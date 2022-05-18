@@ -1,0 +1,4 @@
+git add .
+git commit -m "Getting use to this"
+git pull
+git push
